@@ -13,4 +13,3 @@ def calculate_bmi(weight, height):
     else:
         x=1
     return x 
-calculate_bmi(70,1.74)
