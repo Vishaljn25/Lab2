@@ -3,7 +3,11 @@ def display_main_menu():
  return nums
 
 def get_user_input(nums):
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 9e302ffdf32aa39129e2e425d6fa212b58ccce36
  
  string_list =nums.split("," )
  num_list =list(map(float, string_list))
